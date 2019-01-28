@@ -1,3 +1,2 @@
-我的成长代码
-这里记录着我的成长
-From Helloworld to ...
+Java io<br>
+随机数
